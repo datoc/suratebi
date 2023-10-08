@@ -1,0 +1,6 @@
+@import url("style2.css");
+@import url("style3.css");
+
+img {
+    image-rendering: pixelated;
+}
